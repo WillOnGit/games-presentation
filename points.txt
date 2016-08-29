@@ -1,6 +1,6 @@
 slide 0
 	introduction
-	focus on chess and go
+	mention focus on chess and go
 
 slide 1
 	BRIEF history of chess
@@ -10,27 +10,37 @@ slide 1
 slide 2
 	early efforts obviously mechanical
 	turk most famous and very interesting, but hoax
-
-slide 3
+	segue into computers and game theory stuff
 	no real change until the invention of computers
 	quick history of computers? turing etc?
-	lack of memory issue - combinatorics?
-	development up until 1990s
+
+slide 3
+	noughts and crosses example
+		calculate upper bound on total number of games (9!)
+		explain why upper bound
+	make parallels with chess and other games (search tree)
 
 slide 4
-	introduce kasparov and how dominant he was
-	talk about both matches
-	symbolic significance
+	lack of memory/processing power issue - combinatorics?
+	development up until 1990s
+		alpha-beta pruning
 
 slide 5
-	not chess but...
-	discuss relative complexity
-	talk about different approach of alpha go
+	introduce kasparov and how dominant he was
+	talk about both matches
+		1996 - 4-2
+		1997 - 3.5-2.5
+	symbolic significance
+	go becomes new final frontier
 
 slide 6
-	chess computers dominant, TCEC
-	go as final frontier
-	questions about 
+	discuss relative complexity
+	talk about different approach of alpha go
+	historic lee sedol match
 
 slide 7
+	chess computers dominant, TCEC
+	questions about 
+
+slide 8
 	thanks and questions
