@@ -1,29 +1,41 @@
 slide 0
-	introduction
-	mention focus on chess and go
+	introduce self
+	explain all technology interesting
+		jet engines
+		renewable energy
+		programming
+		satnav
+	love games
+	when i say games...
 
 slide 1
-	BRIEF history of chess
-	mention variants including go
-	how is technology related?
+	many games
+		draughts
+		chess
+		backgammon
+		go
 
 slide 2
 	early efforts obviously mechanical
-	turk most famous and very interesting, but hoax
-	segue into computers and game theory stuff
+	wolfgang von kempelen in 1770
+	played napoleon & benjamin franklin
+	hoax
 	no real change until the invention of computers
-	quick history of computers? turing etc?
+	segue into computers and game theory stuff
 
 slide 3
 	noughts and crosses example
-		calculate upper bound on total number of games (9!)
-		explain why upper bound
+	''brute force'
+	enumerate all possible games
+	rate the resulting positions
+	select the move that maximises the rating
 	make parallels with chess and other games (search tree)
 
 slide 4
-	lack of memory/processing power issue - combinatorics?
-	development up until 1990s
-		alpha-beta pruning
+	first chess computers limited by...
+	lack of memory/processing power issue
+	improved heuristics such as alpha-beta pruning
+	culmination in 1990s
 
 slide 5
 	introduce kasparov and how dominant he was
@@ -35,12 +47,16 @@ slide 5
 
 slide 6
 	discuss relative complexity
-	talk about different approach of alpha go
-	historic lee sedol match
 
 slide 7
-	chess computers dominant, TCEC
-	questions about 
+	talk about different approach of alpha go
+		deep neural networks
+		reinforcement learning
+		(playing games against itself and learning)
+		mimics more closely human learning
+	historic lee sedol match (march 2016)
+	chess computers dominant, tcec (?)
+	questions about ai
 
 slide 8
 	thanks and questions
